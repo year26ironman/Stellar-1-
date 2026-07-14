@@ -1,7 +1,5 @@
 # StellarPay
 
-![CI](https://github.com/gyan987/StellarPay/actions/workflows/stellar-ci.yml/badge.svg)
-
 ### Decentralized Escrow Platform Built on Stellar & Soroban
 
 🎥 **Demo Video**
